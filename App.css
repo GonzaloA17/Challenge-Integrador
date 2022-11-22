@@ -1,0 +1,21 @@
+.App {
+  
+  height: 100vh;
+  
+}
+
+body{
+  background: linear-gradient(90deg, grey 0%, white 45%, black 100%);
+}
+
+footer{
+  background: black;
+}
+
+.parrafo{
+  color:teal
+}
+
+.icons{
+  padding: 0.5rem;
+}
